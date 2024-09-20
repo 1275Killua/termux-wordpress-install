@@ -6,5 +6,5 @@ Skrip ini digunakan untuk menginstal dan mengatur WordPress, Apache, MySQL, dan 
 
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/username/termux-wordpress-install.git
+   git clone https://github.com/1257Killua/termux-wordpress-install.git
    cd termux-wordpress-install
